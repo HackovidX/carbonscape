@@ -1,5 +1,5 @@
 # CarbonScape
-JunctionXAsia project by team **HackovidX**
+Project by team **HackovidX**
 
 ## Heatmap with Airflow direction is accessible at [https://carbonscapeheatmap.azurewebsites.net/](https://carbonscapeheatmap.azurewebsites.net/)
 
