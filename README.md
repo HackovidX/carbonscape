@@ -1,11 +1,11 @@
 # CarbonScape
 Project by team **HackovidX**
 
-## Heatmap with Airflow direction is accessible at [https://carbonscapeheatmap.azurewebsites.net/](https://carbonscapeheatmap.azurewebsites.net/)
+<> ## Heatmap with Airflow direction is accessible at [https://carbonscapeheatmap.azurewebsites.net/](https://carbonscapeheatmap.azurewebsites.net/)
 
-## Prototype app is accessible at [https://carbonscape.azurewebsites.net/](https://carbonscape.azurewebsites.net/)
+<> ## Prototype app is accessible at [https://carbonscape.azurewebsites.net/](https://carbonscape.azurewebsites.net/)
 
-## Azure Functions data API at [https://hackovidxheatmap.azurewebsites.net/api/cousage](https://hackovidxheatmap.azurewebsites.net/api/cousage)
+<> ## Azure Functions data API at [https://hackovidxheatmap.azurewebsites.net/api/cousage](https://hackovidxheatmap.azurewebsites.net/api/cousage)
 
 ## Technologies Used
 * Azure Maps - To render maps and show heatmap and airflow
