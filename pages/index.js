@@ -83,7 +83,7 @@ export class index extends Component {
 				authOptions: {
 					authType: "subscriptionKey",
 					subscriptionKey:
-						"C570VXYfVEQCjJ-_EyYYIMIlM_PJOb6QUxIls-0Dmmw",
+						"eyew3gNv5BH6GITew45Q8t9iTzUF5EBvzXP-5e7UqI0",
 				},
 			});
 		} catch (ex) {}
